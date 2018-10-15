@@ -1,0 +1,4 @@
+[submodule "blender"]
+	path = blender
+	url = git://git.blender.org/blender.git
+	branch = blender2.8
